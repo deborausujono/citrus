@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/debby/Downloads/stanford-parser-2012-07-09/stanford-parser.jar" sourcepath="/home/debby/Downloads/stanford-parser-2012-07-09/stanford-parser-2012-07-09-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/debby/Downloads/stanford-parser-2012-07-09/stanford-parser-2012-07-09-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/debby/Downloads/stanford-parser-2012-07-09/stanford-parser-2012-07-09-models.jar"/>
+	<classpathentry kind="lib" path="/home/debby/Downloads/google-api-java-client-1.10.3-beta/libs/guava-11.0.1.jar" sourcepath="/home/debby/Downloads/google-api-java-client-1.10.3-beta/libs-sources/guava-11.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/home/debby/Downloads/morphadorner/bin" sourcepath="/home/debby/Downloads/morphadorner/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/debby/Downloads/morphadorner/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/debby/Downloads/customsearch-v1-rev5-1.7.2-beta/google-api-services-customsearch-v1-rev5-1.7.2-beta.jar" sourcepath="/home/debby/Downloads/customsearch-v1-rev5-1.7.2-beta/google-api-services-customsearch-v1-rev5-1.7.2-beta-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/debby/Downloads/customsearch-v1-rev5-1.7.2-beta/google-api-services-customsearch-v1-rev5-1.7.2-beta-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/debby/Downloads/google-api-java-client-1.10.3-beta/libs/google-api-client-1.10.3-beta.jar" sourcepath="/home/debby/Downloads/google-api-java-client-1.10.3-beta/libs-sources/google-api-client-1.10.3-beta-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
